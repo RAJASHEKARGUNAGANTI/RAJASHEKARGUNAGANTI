@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJASHEKAR GUNAGANTI</h1>
 <h3 align="center">Let's connect remotely</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashekargunaganti&label=Profile%20views&color=0e75b6&style=flat" alt="rajashekargunaganti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajashekargunaganti" alt="rajashekargunaganti" /></a> </p>
 
